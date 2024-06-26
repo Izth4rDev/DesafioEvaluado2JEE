@@ -1,6 +1,5 @@
 package cl.praxis.business;
 import cl.praxis.models.Habitacion;
-
 import java.util.ArrayList;
 import java.util.List;
 
